@@ -1,0 +1,536 @@
+2025-11-27 19:58:08,848 - __main__ - ERROR - BOT_TOKEN не установлен! Проверьте файл .env
+2025-11-27 20:31:16,624 - __main__ - INFO - Бот запущен
+2025-11-27 20:31:20,781 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getMe "HTTP/1.1 200 OK"
+2025-11-27 20:31:20,845 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-27 20:31:20,847 - telegram.ext.Application - INFO - Application started
+2025-11-27 20:31:27,684 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:27,959 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:31:37,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:37,928 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:38,197 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:31:40,096 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:40,259 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:31:43,745 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:43,880 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:31:47,400 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:47,495 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:31:49,828 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:49,922 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:31:52,493 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:52,619 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:31:56,061 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:31:56,067 - database - INFO - Добавлен фидбек ID 1 от пользователя 1027500941
+2025-11-27 20:31:56,072 - database - INFO - База данных инициализирована
+2025-11-27 20:31:56,138 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 400 Bad Request"
+2025-11-27 20:31:56,139 - notifications - ERROR - Ошибка отправки уведомления в канал: Can't parse entities: can't find end of the entity starting at byte offset 224
+2025-11-27 20:31:56,240 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:32:06,150 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:32:10,752 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:32:20,823 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:32:24,753 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:32:24,958 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 400 Bad Request"
+2025-11-27 20:32:24,959 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 71, in admin_command
+    await update.message.reply_text(
+    ...<3 lines>...
+    )
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_message.py", line 2060, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 3107, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 1118, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 634, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 819, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.BadRequest: Can't parse entities: can't find end of the entity starting at byte offset 546
+2025-11-27 20:32:32,093 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:32:32,287 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 400 Bad Request"
+2025-11-27 20:32:32,288 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 71, in admin_command
+    await update.message.reply_text(
+    ...<3 lines>...
+    )
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_message.py", line 2060, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 3107, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 1118, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 634, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 819, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.BadRequest: Can't parse entities: can't find end of the entity starting at byte offset 546
+2025-11-27 20:32:42,163 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:32:52,229 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:33:02,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:33:12,370 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:33:22,441 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:33:32,515 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:33:42,582 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:33:52,656 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:34:02,723 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:34:12,793 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:34:22,865 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:34:32,933 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:34:43,016 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:34:53,083 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:03,159 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:13,231 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:23,298 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:33,396 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:41,854 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:42,071 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 400 Bad Request"
+2025-11-27 20:35:42,071 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 71, in admin_command
+    
+    
+    ...<3 lines>...
+        parse_mode='HTML'
+        ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_message.py", line 2060, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 3107, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 1118, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 634, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 819, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.BadRequest: Can't parse entities: can't find end of the entity starting at byte offset 546
+2025-11-27 20:35:46,225 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:46,297 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 400 Bad Request"
+2025-11-27 20:35:46,298 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 71, in admin_command
+    
+    
+    ...<3 lines>...
+        parse_mode='HTML'
+        ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_message.py", line 2060, in reply_text
+    return await self.get_bot().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 3107, in send_message
+    return await super().send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 1118, in send_message
+    return await self._send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<21 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 634, in _send_message
+    result = await super()._send_message(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<23 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 819, in _send_message
+    result = await self._post(
+             ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 703, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_extbot.py", line 372, in _do_post
+    return await super()._do_post(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\_bot.py", line 732, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 198, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\request\_baserequest.py", line 375, in _request_wrapper
+    raise exception
+telegram.error.BadRequest: Can't parse entities: can't find end of the entity starting at byte offset 546
+2025-11-27 20:35:50,987 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:51,093 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:35:53,667 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:53,770 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:35:55,178 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:35:55,183 - database - INFO - Добавлен фидбек ID 2 от пользователя 1027500941
+2025-11-27 20:35:55,257 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 400 Bad Request"
+2025-11-27 20:35:55,258 - notifications - ERROR - Ошибка отправки уведомления в канал: Can't parse entities: can't find end of the entity starting at byte offset 134
+2025-11-27 20:35:55,423 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:35:57,589 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:36:07,658 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:36:17,726 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:36:27,794 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:36:37,863 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:37:02,981 - __main__ - INFO - Бот запущен
+2025-11-27 20:37:03,238 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getMe "HTTP/1.1 200 OK"
+2025-11-27 20:37:03,303 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-27 20:37:03,304 - telegram.ext.Application - INFO - Application started
+2025-11-27 20:37:10,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:37:11,012 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:37:17,387 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:37:17,599 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:37:17,693 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:37:20,064 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:37:20,167 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:37:20,168 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 120, in admin_callback_handler
+    await admin_command(update, context)
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 72, in admin_command
+    await update.message.reply_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'reply_text'
+2025-11-27 20:37:21,731 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:37:21,855 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:37:21,856 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 120, in admin_callback_handler
+    await admin_command(update, context)
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 72, in admin_command
+    await update.message.reply_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'reply_text'
+2025-11-27 20:37:22,683 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:37:22,808 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:37:22,809 - telegram.ext.Application - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_application.py", line 1315, in process_update
+    await coroutine
+  File "C:\Users\fanta\AppData\Local\Programs\Python\Python314\Lib\site-packages\telegram\ext\_handlers\basehandler.py", line 159, in handle_update
+    return await self.callback(update, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 120, in admin_callback_handler
+    await admin_command(update, context)
+  File "E:\Все проекты заебательские\TG_BOT\admin.py", line 72, in admin_command
+    await update.message.reply_text(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'reply_text'
+2025-11-27 20:37:30,271 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:37:30,272 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-11-27 20:37:30,272 - telegram.ext.Application - INFO - Application.stop() complete
+2025-11-27 20:40:39,363 - __main__ - INFO - Бот запущен
+2025-11-27 20:40:39,636 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getMe "HTTP/1.1 200 OK"
+2025-11-27 20:40:39,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/deleteWebhook "HTTP/1.1 200 OK"
+2025-11-27 20:40:39,705 - telegram.ext.Application - INFO - Application started
+2025-11-27 20:40:41,490 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:40:41,575 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:41,662 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:40:42,878 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:40:42,971 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:43,101 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:40:46,779 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:40:46,859 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:46,951 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:40:53,983 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:40:54,285 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:54,288 - database - INFO - Статус фидбека 1 обновлен на resolved
+2025-11-27 20:40:54,408 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:54,413 - admin - ERROR - Ошибка отправки уведомления пользователю: 'CallbackQuery' object has no attribute 'bot'
+2025-11-27 20:40:54,520 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:40:56,520 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:40:56,612 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:56,617 - database - INFO - Статус фидбека 1 обновлен на in
+2025-11-27 20:40:56,704 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:56,706 - admin - ERROR - Ошибка отправки уведомления пользователю: 'CallbackQuery' object has no attribute 'bot'
+2025-11-27 20:40:56,801 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:40:58,249 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:40:58,346 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:58,350 - database - INFO - Статус фидбека 1 обновлен на new
+2025-11-27 20:40:58,429 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:58,431 - admin - ERROR - Ошибка отправки уведомления пользователю: 'CallbackQuery' object has no attribute 'bot'
+2025-11-27 20:40:58,524 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:40:59,357 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:40:59,444 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:59,449 - database - INFO - Статус фидбека 1 обновлен на in
+2025-11-27 20:40:59,547 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:40:59,549 - admin - ERROR - Ошибка отправки уведомления пользователю: 'CallbackQuery' object has no attribute 'bot'
+2025-11-27 20:40:59,651 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:40:59,987 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:00,106 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:00,109 - database - INFO - Статус фидбека 1 обновлен на resolved
+2025-11-27 20:41:00,201 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:00,203 - admin - ERROR - Ошибка отправки уведомления пользователю: 'CallbackQuery' object has no attribute 'bot'
+2025-11-27 20:41:00,335 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:00,719 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:00,836 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:00,965 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:02,136 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:02,303 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:02,469 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:03,917 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:04,052 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:04,162 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:05,809 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:05,888 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:05,999 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:13,062 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:14,943 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:15,193 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:41:16,733 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:16,831 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:17,119 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendDocument "HTTP/1.1 200 OK"
+2025-11-27 20:41:17,301 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:26,810 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:34,405 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:34,641 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:34,741 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:38,968 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:39,072 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/sendMessage "HTTP/1.1 200 OK"
+2025-11-27 20:41:41,394 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:41,474 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:41,583 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:43,204 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:43,311 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:43,415 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:44,388 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:44,492 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:44,597 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:48,212 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:48,291 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:48,390 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:54,373 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:54,596 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:54,600 - database - INFO - Статус фидбека 2 обновлен на resolved
+2025-11-27 20:41:54,703 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:54,706 - admin - ERROR - Ошибка отправки уведомления пользователю: 'CallbackQuery' object has no attribute 'bot'
+2025-11-27 20:41:54,791 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:41:55,573 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:41:55,654 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-11-27 20:41:55,747 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/editMessageText "HTTP/1.1 200 OK"
+2025-11-27 20:42:05,652 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:42:15,729 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:42:25,805 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:42:35,879 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:42:45,954 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:42:56,033 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:43:06,110 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:43:16,187 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:43:26,263 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:43:36,339 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:43:46,413 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:43:56,492 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:44:06,568 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:44:16,645 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:44:26,721 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:44:36,798 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:44:46,874 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:44:56,949 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:45:07,025 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:45:17,103 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:45:27,180 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:45:37,260 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:45:47,336 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:45:57,413 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:46:07,489 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:46:17,564 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:46:27,638 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:46:37,713 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:46:47,798 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:46:57,875 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:47:07,951 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:47:18,028 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:47:28,104 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:47:38,179 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:47:48,257 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:47:58,333 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:48:08,410 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:48:18,485 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:48:28,562 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:48:38,636 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:48:48,711 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:48:58,787 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:49:06,131 - httpx - INFO - HTTP Request: POST https://api.telegram.org/bot7659855775:AAFWdU_5fGVAC6s_s7FXXtebrDcXkwmhLd0/getUpdates "HTTP/1.1 200 OK"
+2025-11-27 20:49:06,132 - telegram.ext.Application - INFO - Application is stopping. This might take a moment.
+2025-11-27 20:49:06,132 - telegram.ext.Application - INFO - Application.stop() complete
